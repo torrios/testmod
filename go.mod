@@ -1,1 +1,1 @@
-module github.com/torrios/testmod
+module github.com/torrios/testmod/v2
